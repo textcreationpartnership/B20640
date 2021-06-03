@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Considerations on the bill for settling the trade to Africa, humbly offered to the Lords Spiritual and Temporal in Parliament assembled, in behalf of the plantations.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20640</idno><idno type="EEBO-CITATION">99887489</idno>
+  <idno type="VID">190459</idno>
+  <idno type="EEBO-PROQUEST">2240894899</idno>
+  
+            <idno type="STC">ESTC N68020</idno>
+            <idno type="STC">Wing C5912bA</idno>
+            <idno type="STC">Interim Tract Supplement Guide L.R.305.a.7.[13]</idno>
+            <idno type="STC">ESTC N68020</idno>
+            <idno type="STC">ESTC R227748</idno>
+            <idno type="PROQUEST">ocm99887489</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887489e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20640)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190459)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C21:2[60])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Considerations on the bill for settling the trade to Africa, humbly offered to the Lords Spiritual and Temporal in Parliament assembled, in behalf of the plantations.</title>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>With a docket title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Trade regulation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Trading companies --  Africa --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Commerce --  Africa --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="considerations">
+            <pb n="1" facs="tcp:190459:1"/>
+            <head>Considerations on the BILL for Settling the Trade to <hi>Africa,</hi> Humbly Offered to The LORDS Spiritual and Temporal in Parliament Assembled, in behalf of the Plantations.</head>
+            <p>THe Bill, as it now stands, Enacts, that a Duty of Ten <hi>per Cent. ad Valorem,</hi> shall be paid to the Company, for all Goods Exported, for the Main<g ref="char:EOLhyphen"/>tainance of Forts and Castles.</p>
+            <p>Which Duty of 10 <hi>per Cent.</hi> is very unreasonable, and a great deal too much, and that upon these two Accounts:</p>
+            <p>
+               <hi>First,</hi> It will fall the heaviest on the Plantations, which can least bear that Tax, and are most to be regarded, that Duty being so great, will render the Negroes the dearer to them.</p>
+            <p>
+               <hi>Secondly,</hi> It is very unreasonable, to pay the Company so great a Duty, where they are at no Charge to maintain Forts or Castles, and at the Places where most of the Negroes are pur<g ref="char:EOLhyphen"/>chased; <hi>viz.</hi> from River <hi>Vultus</hi> to <hi>Angola,</hi> and to Cape <hi>Good<g ref="char:EOLhyphen"/>hope,</hi> which is about 4000 Miles Sea-coast, there is not one Fort nor Castle, nor any thing like one, nor will the Negroes permit any to be built: Nor is there any Necessity for them, for by long Experience we have always found the Negroes to use kindly, and treat honestly and civilly, all Persons that come to trade with them, nor ever prejudice any, unless they are cheated and abused; and since the Company are at no Charge to maintain Forts nor Castles, it will be a very heavy Tax on the Plantations, to pay a Duty, only to maintain the <hi>African</hi> Company in their Trade to other Places.</p>
+            <p>The Bill also Enacts several unusual Oaths to be taken be<g ref="char:EOLhyphen"/>fore any Ship can be permitted to sail from <hi>England,</hi> one of which Oaths is, that the Master of the Ship shall swear, that the Manifest or Particular by him given in, and signed to, to the best of his Knowledge or Belief doth contain, specifie and ex<g ref="char:EOLhyphen"/>press
+<pb n="2" facs="tcp:190459:2"/> all the Goods, Wares and Merchandize, which are laden, <hi>or intended</hi> to be laden, or put on board the Ship.</p>
+            <p>This Oath is both unreasonable and impossible to be made, without great danger of Perjury; and that upon these two Accounts.</p>
+            <p n="1">1. It is unreasonable, in regard the Masters business is only to give a Manifest or Content of the Marks and Numbers of every Parcel of Goods loaden on board his Ship; for it cannot be sup<g ref="char:EOLhyphen"/>posed the Master should know what sort of Goods the Mer<g ref="char:EOLhyphen"/>chant packs up, much less to swear to it.</p>
+            <p n="2">2. It is impossible for a Master to swear what any Merchant <hi>intends</hi> to load on board his Ship, his Duty being only to take them on board when sent, and at his clearing at <hi>Custom-house,</hi> to give an Account of the Marks and Numbers of each Parcel, and by whom shipt, yet all this is to be done under the penalty of For<g ref="char:EOLhyphen"/>feiture of Ship and Goods, and the danger of Perjury into the Bargain.</p>
+            <p>The Bill also Enacts, that the Master and one of the Owners shall enter into Bonds, in the penalty of the Value of Ship and Goods, that the Ship shall sail directly from <hi>England</hi> to the Coast of <hi>Africa,</hi> and from thence directly to the Plantations, or to <hi>England.</hi>
+            </p>
+            <p>This Bond is very unreasonable, and destructive to the Trade it self, and that upon three Accounts:</p>
+            <p n="1">(1.) It will discourage and lessen the Trade, few Merchants that are worth any thing, will willingly enter into such Bonds, where the Penalties are so great, and the Conditions so hard to be performed, (always answerable for anothers Actions) for suppose the Master never so honest, yet his Men may mu<g ref="char:EOLhyphen"/>tiny and run away with the Ship, as they did two years ago with one of the Companies Ships, called the <hi>Hanibal,</hi> which Ship in her roving took another Ship, called the <hi>Eagle,</hi> and car<g ref="char:EOLhyphen"/>ried her to <hi>Braseel;</hi> the <hi>Hanibal</hi> also met another Ship, called the <hi>William,</hi> who was never heard of since; the Master may dye, as often they do in those Voyages, then the Care and Charge of the Ship falls on some other Persons; and to be bound to make Good all their Digressions and Miscarriages, will be very hard, this being to punish a Man for a Crime he did not commit, nor could any ways prevent.</p>
+            <p n="2">(2.) It is very unreasonable and severe, that after the Ad<g ref="char:EOLhyphen"/>venturer hath by the former Misfortunes lost both Ship and
+<pb n="3" facs="tcp:190459:2"/> Goods, he should be forced to lose as much more, and pay so severely for his Industry.</p>
+            <p n="3">(3.) This being bound to sail directly to the Coast of <hi>Africa,</hi> is very destructive to that Trade, and that upon two Accounts:</p>
+            <p>
+               <hi>First,</hi> Several Commodities not being to be had in <hi>England,</hi> without which the Trade to <hi>Africa</hi> for Negroes cannot be car<g ref="char:EOLhyphen"/>ried on, <hi>viz.</hi> Cowries, Black and White Bafts, Brawles, and some painted Callicoes, those being the Goods most proper to purchase Negroes, so that the greatest part of this Mischief will fall upon the Plantations.</p>
+            <p>
+               <hi>Secondly,</hi> This restraining the Liberty to procure Goods pro<g ref="char:EOLhyphen"/>per for the Negro Trade, is contrary to any Law now in force, and will put the Trader under the greatest Disadvan<g ref="char:EOLhyphen"/>tages and Difficulties, and at the same time make it easie and advantagious to the <hi>Scotch, Dutch</hi> and <hi>French,</hi> who will here<g ref="char:EOLhyphen"/>by be enabled to beat us quite out, and give them the whole Advantage of that profitable Trade with the <hi>Spanish West-In<g ref="char:EOLhyphen"/>dies,</hi> which they can by no other way attain to. Wherefore such a Liberty, whereon so much depends, can never be the Interest of this Nation to restrain; no Law having as yet prohibited such Liberty of Trade, and is therefore humbly hoped no New Law may be made, which is attended with such ill Consequences.</p>
+            <p>The Result of these Considerations must terminate in these two Points: <hi>First,</hi> It will be too dangerous, troublesome and hazardous, to engage in this Trade: And then, <hi>Secondly,</hi> Shall conclude it will be better to lay it aside, and let our Ships lye by the Walls, than be perpetually in danger of being ruined.</p>
+            <p>By this means the Plantations will suffer for want of Ne<g ref="char:EOLhyphen"/>groes to carry on their Work; there is not a Negroe but makes as much Commodity in a Year, either Sugar, Tobacco, Indigo, <hi>&amp;c.</hi> as will load one Tun of Shipping, the Increase of which Product will largely increase the Consumption of the <hi>English</hi> Woollen Manufacture, Incourage Navigation, and Aug<g ref="char:EOLhyphen"/>ment the Revenue of the Crown.</p>
+            <p>A great Quantity of the Product of our Plantation Com<g ref="char:EOLhyphen"/>modities, will enable the <hi>English</hi> Merchant to make large Ex<g ref="char:EOLhyphen"/>portations to Forreign Markets, and put them into a Capaci<g ref="char:EOLhyphen"/>ty to undersell all other Nations which vye with us in the same Commodities, which will not only discourage their Plan<g ref="char:EOLhyphen"/>tations, but encourage our own.</p>
+            <p>The Planters humbly Hope, the Care of the Plantations Interest and Welfare, will be of greater Moment to your Lordships than any Company with a Joynt-Stock can pretend to.</p>
+         </div>
+      </body>
+      <back>
+         <div type="half_title">
+            <pb facs="tcp:190459:3"/>
+            <p>
+               <hi>Considerations</hi> on the BILL for Settling the Trade to <hi>Africa.</hi> Humbly Offered to the LORDS Spiritual and Temporal, in Parliament Assem<g ref="char:EOLhyphen"/>bled, in behalf of the Plantations.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
